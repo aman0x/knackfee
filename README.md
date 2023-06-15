@@ -25,3 +25,32 @@ pnpm create next-app --example hello-world hello-world-app
 ```
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+
+# knackfee
+
+
+Oravox:
+    The name "Oravoz" does not have a specific meaning in any language as it is a created name. It is a combination of the word "oracle" and the suffix "-voz," which is derived from the Spanish word "voz" meaning "voice." "Oravoz" can be interpreted as a name that implies the voice or expression of the oracle, suggesting a website or platform where oracle-like insights and guidance are provided.
+
+Tools going to use:
+    - Firebase
+    - Node
+    - Mixpanel/Segment
+    - Pipeline
+    - Docker
+    - Jira
+    - Typescript
+    - React
+    - Apollo
+    - Express
+    - Angolia - Read database
+    - GraphQL
+    - firecms
+
+    - Generative Api
+    - Lstm/Ann Nural net
+    - Blockchain
+    - Web3
+
+
+
